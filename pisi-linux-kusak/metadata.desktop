@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Pisi Linux Kusak
+Description=SDDM theme for Pisi Linux
+Author=prdsmehmetstc
+Copyright=Copyright (C) 2019 Mehmet SÜTCÜ
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://www.pisilinux.org
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=prdsmehmetstc@pisilinux.org
+Theme-Id=pisi-linux-kusak
+Theme-API=2.11
